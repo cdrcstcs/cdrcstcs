@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dang Hieu</h1>
 <h3 align="center">I am a passionate software engineer specializing in backend development, eager to apply my skills in a part-time internship setting, with availability in between Nov 2024 and Nov 2025.</h3>
 
+- ***Personal Projects:***
 - **Fullstack Portfolio and Blog Website**
 - Developed a full-stack web application using Express.js, React, TailwindCSS, and MongoDB to create a platform for writing blogs, sharing insights about my research in various technology skills and aspects, as well as to connect with others. Implemented features such as commenting, reacting, and searching by blog title or tags, with a responsive design incorporating 3D elements, videos, and animated backgrounds for enhanced user engagement. Highlighted my personal establishments in algorithm competitions and other milestones on a dedicated achievements page to showcase my growth. Implemented sharing updates on LinkedIn to involve a broader audience. Highlighted my knowledge and research of industry stacks including MySQL, Socket IO, Machine Learning, Load balancing, Docker and Kubernetes with demo projects such as Web Crawler, Data Analytics and Machine Learning, Social media, and other research in blog format with Google Docs-like viewing experience. 
 - **Fullstack Hotel Booking Website**
