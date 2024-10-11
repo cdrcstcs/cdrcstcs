@@ -18,7 +18,7 @@
 - **YouTube Channel:** [Hieu Coding World](https://www.youtube.com/@HieuCodingWorld/videos)
 - **Email:** [nguyendanghieu0608@gmail.com](mailto:nguyendanghieu0608@gmail.com)
 - **Mobile:** (+65) 97750408
-- 📄 Resume: [https://docs.google.com/document/d/1yiLBGsbQhMyaR8emqFZQBda8Qd7yT0yvVc1gnjWfKms/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1yiLBGsbQhMyaR8emqFZQBda8Qd7yT0yvVc1gnjWfKms/edit?pli=1&tab=t.0)
+- **Resume:** [Resume](https://docs.google.com/document/d/1yiLBGsbQhMyaR8emqFZQBda8Qd7yT0yvVc1gnjWfKms/edit?pli=1&tab=t.0)
 
 
 <h3 align="left">Languages and Tools:</h3>
