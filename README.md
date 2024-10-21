@@ -15,13 +15,11 @@ Developed Rate Limiter, a backend SDK to manage API requests, aimed to prevent a
 ### **Itinerary Planner Backend**
 Designed and developed from scratch Itinerary Planner, a web app to serve travel planning and sharing of itineraries among backpacking and travel communities. The app includes itinerary planners and sharing from templates, plan customization, attraction and day suggestions based on interests, and destinations. Designed data schema including tables such as itineraries, events, attractions, and tags. Leveraging Database normalization to 3NF and applying Denormalization on search tables to optimize searching and user flow. Designed and built the Backend’s scalable architecture with Controller, Service, DAL, and Repository Layers. Implemented using Go (Golang) and MongoDB with rigorous testing practices, such as Unit Testing, Integration Testing, Interface Mocking, Endpoint Testing, and Request Validation Testing.
 
-- ***Portfolio and Blog Website:*** [https://ndhieublog.vercel.app/](https://ndhieublog.vercel.app/)
+- **Portfolio and Blog Website:** [https://ndhieublog.vercel.app/](https://ndhieublog.vercel.app/)
 - **Email:** [Dang Hieu Nguyen](nguyendanghieu0608@gmail.com)
 - **LinkedIn:** [Dang Hieu Nguyen](https://www.linkedin.com/in/dang-hieu-nguyen/)
 - **YouTube Channel:** [Hieu Coding World](https://www.youtube.com/@HieuCodingWorld/videos)
 - **Email:** [nguyendanghieu0608@gmail.com](mailto:nguyendanghieu0608@gmail.com)
-- **Mobile:** (+65) 97750408
-- **Resume:** [Resume](https://docs.google.com/document/d/1yiLBGsbQhMyaR8emqFZQBda8Qd7yT0yvVc1gnjWfKms/edit?pli=1&tab=t.0)
 
 
 <h3 align="left">Languages and Tools:</h3>
