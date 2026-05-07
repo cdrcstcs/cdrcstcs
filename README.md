@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dang Hieu</h1>
-<h3 align="center">I am a passionate software engineer specializing in backend development, eager to apply my skills in a part-time internship setting, with availability in between Nov 2024 and Nov 2025.</h3>
-
-<h2 align="left">Personal Projects:</h2>
-
-### **Fullstack Portfolio and Blog Website**
-Developed a full-stack web application using Express.js, React, TailwindCSS, and MongoDB to create a platform for writing blogs, sharing insights about my research in various technology skills and aspects, as well as to connect with others. Implemented features such as commenting, reacting, and searching by blog title or tags, with a responsive design incorporating 3D elements, videos, and animated backgrounds for enhanced user engagement. Highlighted my personal establishments in algorithm competitions and other milestones on a dedicated achievements page to showcase my growth. Implemented sharing updates on LinkedIn to involve a broader audience. Highlighted my knowledge and research of industry stacks including MySQL, Socket IO, Machine Learning, Load balancing, Docker, and Kubernetes with demo projects such as Web Crawler, Data Analytics and Machine Learning, Social media, and other research in blog format with Google Docs-like viewing experience.
-
-### **Fullstack Hotel Booking Website**
-Developed a full-stack hotel booking application to simplify the booking process for users of the Itinerary Planner project (mentioned below), which reinforced my skills in web development and user-centred design through this project. Designed and developed the backend using Node.js and MongoDB; together with the Itinerary planning module as microservices. Implemented search features including hotel search and filter by location, price, and accommodation, with geolocation capabilities. Applied UX design skills to design web frontend pages with intuitive navigation and main menu, main hotel listing page, booking page, and user profile page. Implemented using React, TailwindCSS.
-
-### **Rate Limiter**
-Developed Rate Limiter, a backend SDK to manage API requests, aimed to prevent abuse, mitigate denial-of-service attacks, and ensure fair usage among clients. Researched various industry solutions for rate limiting and their applications in API design. Refined the implementation and applied knowledge of testing methodologies to ensure code accuracy and coverage. Implemented multiple algorithms such as Token Bucket, Leaky Bucket, Fixed Window Counter, Sliding Window Log, and Sliding Window Counter, with Unit Testing and Endpoint Testing using Golang testing packages for reliability and accuracy.
-
-### **Itinerary Planner Backend**
-Designed and developed from scratch Itinerary Planner, a web app to serve travel planning and sharing of itineraries among backpacking and travel communities. The app includes itinerary planners and sharing from templates, plan customization, attraction and day suggestions based on interests, and destinations. Designed data schema including tables such as itineraries, events, attractions, and tags. Leveraging Database normalization to 3NF and applying Denormalization on search tables to optimize searching and user flow. Designed and built the Backend’s scalable architecture with Controller, Service, DAL, and Repository Layers. Implemented using Go (Golang) and MongoDB with rigorous testing practices, such as Unit Testing, Integration Testing, Interface Mocking, Endpoint Testing, and Request Validation Testing.
+<h3 align="center">I am a passionate software engineer specializing in backend development</h3>
 
 - **Portfolio and Blog Website:** [https://ndhieublog.vercel.app/](https://ndhieublog.vercel.app/)
 - **Email:** [Dang Hieu Nguyen](nguyendanghieu0608@gmail.com)
@@ -21,7 +7,110 @@ Designed and developed from scratch Itinerary Planner, a web app to serve travel
 - **YouTube Channel:** [Hieu Coding World](https://www.youtube.com/@HieuCodingWorld/videos)
 - **Email:** [nguyendanghieu0608@gmail.com](mailto:nguyendanghieu0608@gmail.com)
 
+# WORK EXPERIENCE
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Full-Stack Developer (Part-time Remote Internship)
+Github | Certificate  
+Nov 2024 - Dec 2025 (1 yr 1 mo)
 
+### Softech corp - 38 Yen Bai street, Danang city, Vietnam
+
+- Built an e-commerce platform from scratch using PHP, Python, Laravel, React.js, Three.js, TailwindCSS, Axios, Zustand, MySQL, APIs, Machine/Deep Learning, Algorithms, implementing end-to-end real-time shopping, payments, logistics, livestreaming and social features.
+
+- JWT-based authentication with role-based access control and OTP (Twilio) 2FA for multiple user roles. Includes profile management, activity tracking, and secure password handling.
+
+- Product catalog, categories, feedback forms, ratings, reviews, inventory management, cart, coupons, order processing, payment flows (Stripe), order confirmation emails (MailTrap) and real-time order tracking with status updates through WebSockets.
+
+- Developed a Python-based recommendation system using Pandas and Scikit-learn with collaborative and content-based filtering, and integrated a web scraper for review sentiment analysis using Logistic Regression to enhance recommendation relevance.
+
+- Designed and implemented a URL shortener service with unique short-code generation, collision handling, and optimized database indexing for fast link creation and retrieval.
+
+- Designed a VRPTW-based delivery routing system leveraging Mapbox cost graphs (traffic, road density, route complexity) and constraint-aware shortest-path optimization for efficient multi-hop logistics (suppliers → warehouses → customers, including direct delivery).
+
+- Developed warehouse dashboards with inventory management, simulated location maps and expense analytics.
+
+- Built an Automatic Number Plate Recognition system using YOLOv5, OpenCV, and Tesseract OCR to detect and extract license plate text from images and live video streams.
+
+- Built a LiveKit-powered livestreaming system with real-time chat, gifting, and engagement features.
+
+- Added OBS-compatible stream key and server URL generation, along with scalable messaging using Reverb, queues, and broadcast architecture.
+
+- Built social features including user connections, posts, product sharing, and notifications.
+
+- Implemented recursive translation using Google Translate API.
+
+- Developed a 3D avatar generation system using Python and OpenCV for image preprocessing and cartoonization (edge detection, smoothing, and stylization), followed by Tripo3D (text/image-to-3D, multi-view-to-3D) to generate rigged models for animation.
+
+- Built with Flask, Three.js, and Cloudinary for end-to-end avatar creation, transformation, and web-based rendering.
+
+- Built real-time messaging with multimedia support, group chat automation, and spam/malicious URL detection using Logistic Regression.
+
+- Enabled WebSocket-based real-time updates with event-driven architecture and background workers for chat lifecycle management and cleanup.
+
+- Created an AI image & video editor using Cloudinary (layer handling, uploading, transformations).
+
+- Engineered a context-aware AI chatbot using the Gemini API, utilizing scenario-based dataset seeding to deliver more accurate, contextually relevant, and user-adaptive interactions.
+
+- Applied strong Git-based version control practices.
+
+- Implemented comprehensive testing strategies including unit, integration, interface mocking, endpoint testing, and request validation.
+
+- Utilized key design patterns such as Singleton, Factory, Builder, Strategy, and Command to improve code structure and maintainability.
+
+- Designed and developed a 48-entity relational database normalized to 2NF and 3NF standards.
+
+---
+
+# INDEPENDENT PROJECTS
+
+## Fullstack Portfolio and Blog Website
+Feb 2024 - Present
+
+- Developed a full-stack blogging platform using Express.js, React, Three.js, TailwindCSS, and MongoDB for sharing research and connecting users.
+
+- Implemented comments, reactions, and tag-based search with a responsive UI featuring 3D elements and animations.
+
+- Built a structured blog reader with page navigation and a Google Docs–style layout.
+
+- Showcased projects and research topics (e.g., SQL vs NoSQL, MongoDB, and sign language recognition).
+
+- Highlighted personal establishments in algorithm competitions and milestones on a dedicated achievements page.
+
+---
+
+## Blockchain System
+Mar 2024 - Aug 2024
+
+- Built a blockchain in Go with core components (blocks, transactions, validation) and a TCP-based P2P network for node communication and synchronization.
+
+- Implemented ECDSA cryptography for secure transactions, along with mempool, block validation, and basic consensus.
+
+- Added a JSON-RPC interface supporting transaction submission, mining rewards, and simple smart contract execution.
+
+---
+
+## Itinerary Planner Backend
+Oct 2023 - Mar 2024
+
+- Built a travel itinerary platform using Go, Python and MongoDB with template-based itinerary creation, customization, and personalized attraction recommendations.
+
+- Designed a layered backend architecture (Controller, Service, DAL, Repository) with secure validation, CSRF protection, and full testing coverage (unit, integration, endpoint, and interface mocking).
+
+- Modeled a 3NF database with optimized search denormalization for performance.
+
+- Implemented rate limiting (Token/Leaky Bucket, Fixed/Sliding Window) and load balancing (Round Robin, Weighted, Least Connections, IP Hash) for scalability.
+
+- Added an AI-based attraction classifier using CNNs to improve tagging and search relevance.
+
+---
+
+# SKILLS
+
+## Backend Development
+
+PHP, Golang, Python, C++ (Algorithm Competitions), JavaScript, Java, Node.js, Express.js, Laravel, Flask, RESTful APIs, WebSockets, microservices, layered architecture, MongoDB, MySQL, PostgreSQL, Redis, database design, JWT, OTP/2FA, CSRF protection, Apache Kafka, multi-threading, concurrency handling, caching, background jobs, real-time systems, URL shortener systems, payment integration, Algorithms & Data Structure, Machine/Deep Learning, testing methodologies, Docker, Kubernetes, Git, GitHub.
+
+## Languages
+
+- English (Professional Working Proficiency, IELTS 7.0)
+- Vietnamese (Native)
