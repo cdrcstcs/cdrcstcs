@@ -2,10 +2,62 @@
 <h3 align="center">I am a passionate software engineer specializing in backend development</h3>
 
 - **Portfolio and Blog Website:** [https://ndhieublog.vercel.app/](https://ndhieublog.vercel.app/)
-- **Email:** [Dang Hieu Nguyen](nguyendanghieu0608@gmail.com)
 - **LinkedIn:** [Dang Hieu Nguyen](https://www.linkedin.com/in/dang-hieu-nguyen/)
 - **YouTube Channel:** [Hieu Coding World](https://www.youtube.com/@HieuCodingWorld/videos)
 - **Email:** [nguyendanghieu0608@gmail.com](mailto:nguyendanghieu0608@gmail.com)
+
+# EDUCATION
+
+## Bachelor of Information Technology, James Cook University (Singapore Campus)
+Oct 2023 - May 2026
+
+- GPA: 5.5/7.
+
+- Completed Courses:
+  - Problem Solving and Programming I (CP1401) – Pass
+  - Internet Fundamentals (CP1402) – Pass
+  - Design Thinking I (CP1403) – Distinction
+  - Programming II (CP1404) – Distinction
+  - Web Design and Development (CP1406) – Pass
+  - Introductory Machine Learning and Data Science (CP1407) – High Distinction
+  - Operating Systems and Shell Scripting (CP1409) – Distinction
+  - Cloud and Data Centre Security (CP2422) – Distinction
+  - Network Forensics and Data Communications (CP2409) – Pass in Supp
+  - Collective Intelligence and Entrepreneurship (CP2405) – Distinction
+  - Information Processing and Visualisation (CP2403) – Distinction
+  - Database Modelling (CP2404) – Distinction
+  - Programming III (CP2406) – Pass in Supp
+  - Design Thinking II (CP2408) – Distinction
+  - Network Security (CP2414) – Distinction
+  - Cloud Computing (CP2501) – Credit
+  - Discrete Mathematics for Computing (MA2011) – Credit
+  - Data Mining (CP3403) – Distinction
+  - Information Security (CP3404) – Pass
+  - Design Thinking III (CP3405) – Credit
+  - Mobile Computing (CP3406) – Pass
+  - Advanced Software Engineering (CP3407) – Distinction
+  - Deep Learning (CP3501)
+  - Multidisciplinary Project (CP3102)
+
+---
+
+## Phan Chau Trinh High School, Da Nang City, Vietnam 
+2020 - 2023
+
+- Participated in the school’s Informatics Specialized Team, focusing on programming, problem-solving, and algorithmic competitions.
+
+- GPA: 9.3/10.
+
+- Bronze Medal, XXVI Traditional Regional Olympic Competition 30/4, Ho Chi Minh City, 2021 – Algorithms and problem-solving.
+
+- 3rd Prize, 24th City Youth Informatics Competition, Da Nang City, 2021 – Algorithms and problem-solving.
+
+- 2nd Prize, High School Informatics Olympiad, Vietnam Central Region, Da Nang City, 2021 – Algorithms and problem-solving.
+
+- 2nd Prize, 25th City Youth Informatics Competition, Da Nang City, 2022 – Algorithms and problem-solving.
+
+- IELTS 7.0 Overall, 2023 – Scored 7 listening, 7.5 reading, 6.5 writing, 7 speaking, demonstrating strong English proficiency.
+
 
 # WORK EXPERIENCE
 
